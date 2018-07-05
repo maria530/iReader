@@ -3,7 +3,6 @@
 > 收集自己喜欢的阅读内容
 
 ## Build Setup
----------------------------------
 
 ``` bash
 # install dependencies
