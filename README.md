@@ -24,3 +24,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 Now this is my new content.
 new content.
+new 
